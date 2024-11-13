@@ -1,6 +1,6 @@
 package com.Eternity.code;
 
-public class Laptop {
+public class Laptop implements Computer {
     public Laptop()
     {
         System.out.println("\nLaptop Object Created");
