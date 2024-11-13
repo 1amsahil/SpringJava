@@ -9,8 +9,11 @@ public class App
     {
        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
-       Desktop desk = context.getBean("com",Desktop.class);
-       desk.compiling();
+       Desktop desk1 = context.getBean("com",Desktop.class);
+       desk1.compiling();
+
+        Desktop desk2 = context.getBean("com",Desktop.class);
+        desk2.compiling();
 
     }
 }

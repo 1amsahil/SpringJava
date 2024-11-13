@@ -4,11 +4,11 @@ public class Desktop {
 
     public Desktop()
     {
-        System.out.println("Desktop Object Created");
+        System.out.println("\nDesktop Object Created");
     }
 
     public void compiling()
     {
-        System.out.println("Compiling");
+        System.out.println("Compiling via Desktop");
     }
 }
