@@ -1,5 +1,8 @@
 package com.Eternity.code;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Dev {
 
     private int age ;

@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b2b1b6c6-5b08-4555-bf0d-1134c731e5e1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Desktop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/config/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "3Autowire",
+    "git-widget-placeholder": "5ComponentStereo",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -59,5 +61,28 @@
       <updated>1731422927397</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="4PrimaryQual" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
