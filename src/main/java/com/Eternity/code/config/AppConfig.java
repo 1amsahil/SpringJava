@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 public class AppConfig {
 
     @Bean
-    public Desktop desktop()
+    public Desktop desktop()    // Object name in (App.java) must have the same name as Method (desktop)
     {
         return new Desktop();
     }
