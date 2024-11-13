@@ -9,9 +9,6 @@ public class App
     {
        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
-       Computer com = context.getBean(Computer.class);
-       com.compiling();
-
        Dev dev = context.getBean(Dev.class);
        dev.coding();
 

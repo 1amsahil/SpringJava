@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2b1b6c6-5b08-4555-bf0d-1134c731e5e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Desktop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Dev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Eternity/code/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Eternity/code/config/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +40,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "2Scope",
+    "git-widget-placeholder": "3Autowire",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
