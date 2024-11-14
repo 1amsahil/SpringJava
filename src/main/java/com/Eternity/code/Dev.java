@@ -1,21 +1,17 @@
 package com.Eternity.code;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
 public class Dev {
 
     private int age ;
-    private Computer com ;
 
-    public Computer getCom()
-    {
-        return com;
-    }
-    public void setCom(Computer com)
-    {
-        this.com = com;
-    }
+    @Autowired
+    @Qualifier("lap")
+    private Computer com ;
 
     public int getAge() {
         return age;

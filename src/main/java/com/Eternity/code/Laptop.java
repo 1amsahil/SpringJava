@@ -2,7 +2,7 @@ package com.Eternity.code;
 
 import org.springframework.stereotype.Component;
 
-@Component
+@Component("lap")
 public class Laptop implements Computer {
     public Laptop()
     {

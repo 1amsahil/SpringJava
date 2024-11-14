@@ -11,6 +11,5 @@ public class App
 
        Dev dev = context.getBean(Dev.class);
        dev.coding();
-
     }
 }
