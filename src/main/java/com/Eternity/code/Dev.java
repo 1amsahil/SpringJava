@@ -2,11 +2,13 @@ package com.Eternity.code;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 @Component
 public class Dev {
 
+    @Value("26") // Add value in Age
     private int age ;
 
     @Autowired
